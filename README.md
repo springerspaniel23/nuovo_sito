@@ -7,3 +7,4 @@ https://github.com/adityatelange/hugo-PaperMod
 Sembra molto seguito su github.
 Mi sembra abbastanza basic, ma con varie possibilita' per personalizzarlo
 bo, vediamo
+Ho provato a buttare giu' una home page di test.
