@@ -31,8 +31,6 @@ params:
     buttons:
       - name: Archive
         url: "/archive"
-      - name: Jamendo
-        url: "https://www.jamendo.com/artist/339872/the-radiostars"
 
  socialIcons:
     - name: "youtube"
@@ -45,5 +43,5 @@ params:
       url: "http://twitter.com/theradiostars"
     - name: "flickr"
       url: "https://www.flickr.com/photos/radiostars/"
-#  TODO trovare il modo di aggiungere jamendo
-
+    - name: "jamendo"
+      url: "https://www.jamendo.com/artist/339872/the-radiostars"
