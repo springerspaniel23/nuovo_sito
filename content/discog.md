@@ -12,7 +12,7 @@ Titolo: Dancing le Cibaou-Cibaou
 Etichetta: Asbury Park
 Anno: 1997
 ```
-
+{{<figure src="/svg/spotify.svg" width="30px">}}
 ### More Traditional Than You
 ![MTTY](/img/discog/mtty.jpg)
 
@@ -21,7 +21,6 @@ Titolo: More Traditional Than You
 Etichetta: Vurt Recordz, Freebird Record, A. Gandino
 Anno: 1999
 ```
-
 ### For What Might Have Been
 ![MTTY](/img/discog/fwmhb.jpg)
 

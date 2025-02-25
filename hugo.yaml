@@ -1,6 +1,8 @@
 baseURL: https://theradiostars.com/
-#languageCode: en-us
 languageCode: it-IT
+# TODO: Hugo considera comunque il sito in inglese
+# ad esempio le date dei post sono in inglese
+# inoltre quando compili ti dice che ha creato x pagine in inglese
 title: theradiostars.com
 theme: ["PaperMod"]
 ignoreLogs : ["warning-goldmark-raw-html"]
