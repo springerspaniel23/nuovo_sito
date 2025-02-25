@@ -15,5 +15,19 @@
       <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>Hello world!</description>
     </item>
+    <item>
+      <title>Dancing at the Gyno</title>
+      <link>http://localhost:1313/posts/19970607-gyno/</link>
+      <pubDate>Sat, 07 Jun 1997 08:04:06 +0100</pubDate>
+      <guid>http://localhost:1313/posts/19970607-gyno/</guid>
+      <description>&lt;p&gt;In un fumoso locale reggiano chiamato Gyno, una sera di giugno del 1997, si ballò il Cibaou-Cibaou e noi fummo felici.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Un Covo di sangue e delirio</title>
+      <link>http://localhost:1313/posts/19940129-covo/</link>
+      <pubDate>Sat, 29 Jan 1994 14:13:17 +0100</pubDate>
+      <guid>http://localhost:1313/posts/19940129-covo/</guid>
+      <description>&lt;p&gt;Dopo aver inciso cinque canzoni su un demo, ottenemmo il nostro primo ingaggio al Covo di Bologna, facendo credere di essere una band navigata nella scena musicale emiliana, ma avevamo solo una decina di brani e nessun concerto all&amp;rsquo;attivo.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

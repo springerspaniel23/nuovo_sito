@@ -1,35 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>theradiostars.com</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on theradiostars.com</description>
+    <title>Live on theradiostars.com</title>
+    <link>http://localhost:1313/categories/live/</link>
+    <description>Recent content in Live on theradiostars.com</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 25 Feb 2025 11:29:14 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Tue, 25 Feb 2025 11:29:14 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>Hello world!</description>
-    </item>
-    <item>
-      <title>blog</title>
-      <link>http://localhost:1313/blog/</link>
-      <pubDate>Mon, 24 Feb 2025 19:42:02 +0100</pubDate>
-      <guid>http://localhost:1313/blog/</guid>
-      <description>test page blog</description>
-    </item>
-    <item>
-      <title>discografia</title>
-      <link>http://localhost:1313/discog/</link>
-      <pubDate>Mon, 24 Feb 2025 19:39:03 +0100</pubDate>
-      <guid>http://localhost:1313/discog/</guid>
-      <description>Questa diventerà la pagina della discografia dei Radiostars
-Di seguito provo ad aggiungere una immagine dalla rete Foto da Commons Wikimedia</description>
-    </item>
+    <lastBuildDate>Thu, 20 Feb 2025 14:13:17 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/live/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dancing at the Gyno</title>
       <link>http://localhost:1313/posts/19970607-gyno/</link>

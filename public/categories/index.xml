@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/categories/sandbox/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Live</title>
+      <link>http://localhost:1313/categories/live/</link>
+      <pubDate>Sat, 07 Jun 1997 08:04:06 +0100</pubDate>
+      <guid>http://localhost:1313/categories/live/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

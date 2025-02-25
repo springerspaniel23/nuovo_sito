@@ -7,6 +7,6 @@ tags: ["Sandbox"]
 categories: ["Sandbox"]
 cover:
   image: images/dancing169.jpg
-  caption: "Logo Radiostars"
+#  caption: "Logo Radiostars"
 ---
 Hello world!

@@ -29,6 +29,21 @@
     <loc>http://localhost:1313/discog/</loc>
     <lastmod>2025-02-24T19:39:03+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/album/</loc>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/19970607-gyno/</loc>
+    <lastmod>2025-02-20T08:04:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/live/</loc>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/live/</loc>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/19940129-covo/</loc>
+    <lastmod>2025-02-20T14:13:17+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/archive/</loc>
   </url>
 </urlset>
