@@ -25,7 +25,7 @@ params:
     title: "<Title>" # optional default will be site title
     subtitle: "Social"
     imageUrl: "logo_radiostars.png" # optional
-    imageTitle: "<title of image as alt>" # optional
+    imageTitle: "Radiostars logo" # optional
     imageWidth: 520 # custom size
     imageHeight: 520 # custom size
     buttons:
