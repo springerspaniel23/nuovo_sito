@@ -4,4 +4,4 @@ draft: true
 title: 'discografia'
 ---
 
-test page discografia
+Questa diventerà la pagina della discografia dei Radiostars
