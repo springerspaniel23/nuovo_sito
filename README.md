@@ -3,11 +3,7 @@ Test per nuovo sito https://theradiostars.com
 da lanciare con 
 hugo server -D
 (in questo modo carica le pagine ancora in draft)
-il tema e' papermod: qua la documentazione
-https://github.com/adityatelange/hugo-PaperMod
 
-Fork del tema
-https://github.com/massimobarbieri/hugo-PaperMod-radiostars
 
 Dopo aver clonato il repo git del sito è necessario scaricare, sempre con git, il tema del sito.
 
@@ -22,3 +18,13 @@ Il comando seguente è necessario
 Per aggiornare
 
 `git submodule update --remote --merge`
+
+= Tema =
+il tema e' papermod: qua la documentazione
+https://github.com/adityatelange/hugo-PaperMod
+
+== Fork del tema ==
+https://github.com/massimobarbieri/hugo-PaperMod-radiostars
+
+== Sito di esempio sul tema ==
+https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite
