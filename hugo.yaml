@@ -12,7 +12,7 @@ menu:
       weight: 10
     - identifier: blog
       name: blog
-      url: /blog/
+      url: /posts/
       weight: 20
     - identifier: example
       name: example.org
